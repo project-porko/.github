@@ -6,6 +6,17 @@
   - 나와 친구 연결 - 가계부 공유하면서 재미있는 자산관리
 
 ---
+## 개발 환경
+
+|분류|상세|
+| ---------- | :--------- |
+|Language|Java 17|
+|Framework|Spring Boot 3.2.5, JPA(Hibernate 6.4.4)|
+|dependencies|QueryDSL, jjwt|
+|Build Tool|Gradle 8.4|
+|DBMS|H2, MySQL 8.0|
+|Repository|Redis|
+|DevOps|EB, EC2, ECR, S3, RDS, Docker, Gihub Actions|
 
 ## [Project Repository](https://github.com/project-porko/porko-service)
 
