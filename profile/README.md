@@ -1,11 +1,11 @@
-## Hi there 👋
-
 # Project PORKO(porko, 포코)
 - 에스페란토어로 '돼지'라는 뜻
 - 돼지 저금통을 연상
 - 돼지 꼬리처럼 연결
   - 사회초년생과 금융 연결 - 금융 및 자산관리를 어려워하는 사회초년생을 위한 서비스
   - 나와 친구 연결 - 가계부 공유하면서 재미있는 자산관리
+
+---
 
 ## [Project Repository](https://github.com/project-porko/porko-service)
 
