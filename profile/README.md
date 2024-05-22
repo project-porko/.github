@@ -18,13 +18,13 @@
 |Repository|Redis|
 |DevOps|EB, EC2, ECR, S3, RDS, Docker, Gihub Actions|
 
-## [Project Repository](https://github.com/project-porko/porko-service)
+## [설게 산출물 보러가기: Wiki](https://github.com/project-porko/porko-service/wiki)
+
+## [구현 산출물 보러가기: Repository](https://github.com/project-porko/porko-service)
 
 ## [Task 관리](https://github.com/orgs/project-porko/projects/3)
 
-## [Wiki](https://github.com/project-porko/porko-service/wiki)
-
-## [트러블 슈팅](https://github.com/project-porko/porko-service/wiki)
+## [트러블 슈팅]([https://github.com/project-porko/porko-service/wiki](https://github.com/project-porko/porko-service/discussions/categories/trouble-shooting))
 
 ## 구성원
 - [김지안](https://github.com/twonabi)
