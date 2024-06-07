@@ -10,13 +10,25 @@
 
 |분류|상세|
 | ---------- | :--------- |
+|IDE|IntelliJ|
 |Language|Java 17|
-|Framework|Spring Boot 3.2.5, JPA(Hibernate 6.4.4)|
-|dependencies|QueryDSL, jjwt|
+|Framework|Spring Boot 3.2.5|
+|Repository|H2 In-momory, MySQL 8.0.35|
 |Build Tool|Gradle 8.4|
-|DBMS|H2, MySQL 8.0|
-|Repository|Redis|
-|DevOps|EB, EC2, ECR, S3, RDS, Docker, Gihub Actions|
+|DevOps - dev|EC2, ECR, ALB, ACM, H2, Docker, Gihub Actions|
+|DevOps - prd|EKS(EC2), ECR, ALB, ACM, RDS, Docker, Gihub Actions, Helm, Argo CD|
+
+## 상세 개발 환경
+### Dependencies
+- Spring validation
+- Spring security
+- jjwt
+- JPA(Hibernate)
+- QueryDSL
+- Lombok
+- Caffeine
+- Swagger
+- Fixture monkey
 
 ## [설계 산출물 보러가기: Wiki](https://github.com/project-porko/porko-service/wiki)
 
