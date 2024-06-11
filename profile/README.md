@@ -13,7 +13,7 @@
 |IDE|IntelliJ|
 |Language|Java 17|
 |Framework|Spring Boot 3.2.5|
-|Repository|H2 In-momory, MySQL 8.0.35|
+|Repository|H2 In-memory, MySQL 8.0.35|
 |Build Tool|Gradle 8.4|
 |DevOps - dev|EC2, ECR, ALB, ACM, RDS(MySQL), Docker, Gihub Actions|
 |DevOps - prd|EKS(EC2), ECR, ALB, ACM, RDS, Docker, Gihub Actions, Helm, Argo CD|
